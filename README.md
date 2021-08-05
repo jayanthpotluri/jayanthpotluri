@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayanthpotluri
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning JavaScript
 
 <!---
 jayanthpotluri/jayanthpotluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
